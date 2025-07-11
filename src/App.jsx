@@ -1,11 +1,10 @@
-
 import React from 'react'
-
+import Hero from './components/Header/Hero'
 
 const App = () => {
   return (
-    <div className='bg-amber-200'>
-      
+    <div>
+     <Hero/>
     </div>
   )
 }
